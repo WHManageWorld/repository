@@ -1,0 +1,9 @@
+module persistence {
+    yang-version 1;
+    namespace "urn:opendaylight:params:xml:ns:yang:persistence";
+    prefix "persistence";
+
+    revision "2015-01-05" {
+        description "Initial revision of persistence model";
+    }
+}
